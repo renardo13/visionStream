@@ -5,6 +5,7 @@
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/04e1d04a-b2e5-4d5e-b55c-bb2a01b84078" width="250" height="250" alt="Screenshot">
 </div>
+> **Note:** Small detection of objet and movement with high treshold.
 
 **VisionStream** is a lightweight C++ application that detects subtle movements in video streams or webcam feeds in real time. Using OpenCV’s background subtraction and contour analysis, it highlights micro-movements like blinking eyes, small gestures, or slight object shifts. The application stabilizes detection over multiple frames to reduce noise and clearly visualizes moving regions with contours and bounding boxes.
 
