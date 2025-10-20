@@ -1,4 +1,4 @@
-# VisionStream – Real-Time Micro-Movement Detection
+# VisionStream – Real-Time Micro-Movement Detection with OpenCv
 
 ![computerVision](https://github.com/user-attachments/assets/2298eabe-d166-4dd4-b981-424e11efae65)
 
