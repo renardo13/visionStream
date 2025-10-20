@@ -2,7 +2,7 @@
 
 ![computerVision](https://github.com/user-attachments/assets/2298eabe-d166-4dd4-b981-424e11efae65)
 
-Small detection of objet and movement with high treshold.
+Small detection of objet and movement with high treshold. (The numbe rof pixels that the substraction pixels frame are detected are written on the camera.)
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/04e1d04a-b2e5-4d5e-b55c-bb2a01b84078" width="250" height="250" alt="Screenshot">
 </div>
