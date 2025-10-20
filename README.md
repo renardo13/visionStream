@@ -26,6 +26,7 @@ Designed for creative and experimental purposes, VisionStream can be used in **a
 - Linux
 - C++17 compatible compiler (GCC/Clang)
 - OpenCV 4.5+ installed
+- Cmake
 
 ### Build Instructions
 
@@ -34,11 +35,10 @@ Designed for creative and experimental purposes, VisionStream can be used in **a
 git clone https://github.com/renardo13/visionStream
 cd VisionStream
 
-# Create a build directory
-mkdir build && cd build
+# launch
+chmod +x run.sh
+./run.sh
+```
 
-# Configure the project
-cmake ..
-
-# Build the application
-make -j$(nproc)
+You can run the script run.sh both with or without argument. 
+The argument has to be a file with mp4 extension.
