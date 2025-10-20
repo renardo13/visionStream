@@ -2,6 +2,8 @@
 
 ![computerVision](https://github.com/user-attachments/assets/2298eabe-d166-4dd4-b981-424e11efae65)
 
+![Uploading Screenshot from 2025-10-20 15-38-52.png…]()
+
 **VisionStream** is a lightweight C++ application that detects subtle movements in video streams or webcam feeds in real time. Using OpenCV’s background subtraction and contour analysis, it highlights micro-movements like blinking eyes, small gestures, or slight object shifts. The application stabilizes detection over multiple frames to reduce noise and clearly visualizes moving regions with contours and bounding boxes.
 
 Designed for creative and experimental purposes, VisionStream can be used in **art installations**, **projection mapping**, or **gesture-based interaction systems**. It is fully CPU-compatible, but can optionally leverage a CUDA-enabled GPU for higher performance if compiled with OpenCV’s CUDA modules.
